@@ -1,3 +1,12 @@
+## Features list
+
+- Material UI
+- Flexbox
+- TMDB - API calls to a movie service (Axios)
+- React Flip Move for animations
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
