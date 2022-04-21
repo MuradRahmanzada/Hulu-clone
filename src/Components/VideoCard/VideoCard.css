@@ -1,0 +1,38 @@
+.videoCard {
+  color: white;
+  width: 500px;
+  height: 400px;
+  padding: 20px;
+  transition: transform 100ms ease-in;
+  cursor: pointer;
+}
+.videoCard:hover {
+    transform: scale(1.09);
+}
+
+.videoCard > img {
+  height: 300px;
+  object-fit: contain;
+  width: 500px;
+}
+
+.videoCard_stats {
+  display: none;
+}
+
+.videoCard:hover > .videoCard_stats {
+  display: inline;
+  text-align: center;
+}
+
+.videoCard:hover > .videoCard_stats > .MuiSvgIcon-root {
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+
+
+.videoCard > h2 {
+    padding-top: 10px;
+}
