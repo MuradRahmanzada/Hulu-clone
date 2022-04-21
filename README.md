@@ -1,9 +1,3 @@
-## Features list
-
-- Material UI
-- Flexbox
-- TMDB - API calls to a movie service (Axios)
-- React Flip Move for animations
 
 
 
